@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chem_answer_array">
+        <item> SQLiteOpenHelper </item>
+        <item> Security Exception </item>
+        <item> Ducking </item>
+        <item> AttributeSet </item>
+        <item> Wi-Fi radio </item>
+        <item> Service Content Provider </item>
+        <item> GooglePlay </item>
+        <item> SQLite </item>
+        <item> NetworkInfo </item>
+        <item> Parser </item>
+        <item> Linux Based </item>
+    </string-array>
+</resources>

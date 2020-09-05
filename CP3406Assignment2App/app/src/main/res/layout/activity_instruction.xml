@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_quiz_instruction"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="com.example.nangshwekyi.cp3406assignment2app.InstructionActivity">
+
+    <TextView
+        android:id="@+id/quiz_instruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textSize="10.70sp"
+        android:lineSpacingMultiplier="1.5"
+        android:textColor="@color/colorPrimary"
+        android:layout_centerHorizontal="true" />
+
+
+    <Button
+        android:id="@+id/buttonBack"
+        android:layout_width="185dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:background="@color/DarkGreenBlue"
+        android:onClick="buttonBack"
+        android:text="@string/home"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        tools:ignore="OnClick" />
+
+    <Button
+        android:id="@+id/buttonPlayGame"
+        android:layout_width="185dp"
+        android:layout_height="60dp"
+        android:layout_above="@+id/buttonBack"
+        android:layout_alignStart="@+id/buttonBack"
+        android:layout_marginBottom="23dp"
+        android:background="@color/DarkGreenBlue"
+        android:onClick="buttonGame"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        android:text="@string/play_game"
+        tools:ignore="OnClick" />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chem_answer_array">
+        <item> Healthy and Fresh</item>
+        <item> Healthy Fruits</item>
+        <item> Go Diet</item>
+        <item> Green Green</item>
+        <item> CO2 </item>
+        <item> Carbon monoxide</item>
+        <item> Sodium Oxide </item>
+    </string-array>
+</resources>

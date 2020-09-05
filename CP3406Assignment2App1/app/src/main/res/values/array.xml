@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chem_answer_array">
+        <item> Water </item>
+        <item> Au </item>
+        <item> True </item>
+        <item> False </item>
+        <item> Ag </item>
+        <item> Nitrogen </item>
+        <item> Carbon dioxide </item>
+        <item> Hydrogen </item>
+        <item> Pb </item>
+        <item> pH </item>
+
+        <item> Oxygen </item>
+        <item> Nitrogen (around 78%) </item>
+        <item> Chlorine </item>
+        <item> Carbon </item>
+        <item> Liquid</item>
+        <item> Acid </item>
+        <item> Base </item>
+        <item> Calcium phosphate </item>
+        <item> Calcium phosphide </item>
+        <item> Helium </item>
+        <item> Calcium </item>
+
+
+    </string-array>
+</resources>

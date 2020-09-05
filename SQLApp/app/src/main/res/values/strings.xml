@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SQLApp</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="game_play">Game Play</string>
+    <string name="instruction">Instruction</string>
+    <string name="best_score">Best Score</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="str_next">Next</string>
+    <string name="title_activity_result">Results!!!</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="radiobutton1">RadioButton</string>
+    <string name="radiobutton2">RadioButton</string>
+    <string name="music_turn_on">Music Turn On</string>
+    <string name="music_turn_off">Music Turn Off</string>
+    <string name="submit">Submit</string>
+
+
+</resources>

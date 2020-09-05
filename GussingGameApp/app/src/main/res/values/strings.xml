@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GussingGameApp</string>
+    <string name="guess">Guess:</string>
+    <string name="status">status..</string>
+    <string name="go_next">Go Next</string>
+    <string name="go_back">Go back</string>
+    <string name="choose_your_progress">Choose your progress</string>
+    <string name="range_is">Range is :</string>
+</resources>

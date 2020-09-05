@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="diet_array">
+        <item> Healthy and Fresh</item>
+        <item> Healthy Fruits</item>
+        <item> Go Diet</item>
+    </string-array>
+</resources>

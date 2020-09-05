@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlarmApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="turn_off_alarm">Turn off</string>
+    <string name="did_you_set_the_alarm">Set the Alarm!!</string>
+
+    <string-array name="cp3406_array">
+        <item>song</item>
+        <item>song1</item>
+        <item>song2</item>
+        <item>song3</item>
+
+    </string-array>
+</resources>

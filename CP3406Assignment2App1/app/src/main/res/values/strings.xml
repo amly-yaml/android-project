@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">CP3406Assignment2App1</string>
+    <string name="game_play">Game Play</string>
+    <string name="instruction">Instruction</string>
+    <string name="best_score">Best Score</string>
+    <string name="button1">button1</string>
+    <string name="button2">button2</string>
+    <string name="button3">button3</string>
+    <string name="next_question">Next Question</string>
+
+
+    <string name="quiz_information_notice">Game Play</string>
+    <string name="quiz_information_result">Best Score</string>
+    <string name="quiz_information_inst">Game Instruction</string>
+
+
+    <string name="home">Home</string>
+    <string name="play_game">Play Game</string>
+    <string name="home1">Home</string>
+    <string name="goback">Continue</string>
+    <string name="home2">Home</string>
+    <string name="main_setting">Setting</string>
+    <string name="main_bestScore">Best Score</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="off1">Off</string>
+    <string name="on1">On</string>
+
+    <string name="music_turn_on">Music Turn Off</string>
+    <string name="sumit">Sumit</string>
+    <string name="helium">Helium</string>
+    <string name="flase">Flase</string>
+    <string name="chlorine">Chlorine</string>
+    <string name="score_current">Score:</string>
+    <string name="_0_0">0/0</string>
+    <string name="question_to_answer">Question to answer:</string>
+    <string name="share_twitter">Share</string>
+
+
+    <string name="authorize">authorize</string>
+    <string name="login_instructions">Hello ShweKyi</string>
+
+    <string name="twitter_callback">http://crunchycodes.net</string>
+    <string name="twitter_consumer_key">UhGBIrkvzclklQ11CR7q7t7IT</string>
+    <string name="twitter_consumer_secret">25k8qjkBjRX9pkB7mnUgl7goRgQ7iaqvGryQwPFQH28VVjan4j
+</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+    <string name="hello">Hello</string>
+    <string name="share">Share</string>
+    <string name="share_instructions">share_instructions</string>
+    <string name="home3">Home</string>
+    <string name="your_highest_score1">Your Highest Score:</string>
+    <string name="current_score1">Current Score:</string>
+    <string name="music_turn_off">Music Turn Off</string>
+</resources>

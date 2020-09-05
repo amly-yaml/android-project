@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dots</string>
+
+    <string name="logo_description">Image of a finger pointing at some dots</string>
+    <string name="play">Play</string>
+
+    <string name="create_table">CREATE TABLE %1$s (_id INTEGER PRIMARY KEY, %2$s TEXT)</string>
+    <string name="delete_table">DROP TABLE IF EXISTS %1$s</string>
+</resources>
